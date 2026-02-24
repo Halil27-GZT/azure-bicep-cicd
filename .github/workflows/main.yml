@@ -9,7 +9,7 @@ jobs:
   deploy-code:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
+      - name: Checkout Code HalIbrTürk
         uses: actions/checkout@v3
 
       - name: Deploy Web App Code
